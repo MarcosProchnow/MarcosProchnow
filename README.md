@@ -1,34 +1,29 @@
-Marcos Prochnow
+👋 Olá, eu sou o Marcos Prochnow
+
 🔹 Analista de Sistemas | Desenvolvedor de Software | Cientista de Dados | Professor
 🔹 Apaixonado por resolver problemas através da tecnologia
-🔹 Experiência prática em GeneXus, C#, SQL e Python
 🔹 Interesse especial em Desenvolvimento de Software, Ciência de Dados e Inteligência Artificial aplicada a negócios
+🔹 Experiência prática com GeneXus, C#, SQL e Python
 
 🛠️ Tecnologias e Ferramentas
-Linguagens de Programação:
+Python 🐍
+Análise de dados, automação de processos e desenvolvimento de aplicações inteligentes.
 
-Python 🐍 — Utilizado para análise de dados, automação de processos e desenvolvimento de aplicações inteligentes.
+C# ⚙️
+Desenvolvimento de sistemas, APIs, aplicações web e soluções corporativas.
 
-C# ⚙️ — Linguagem versátil para desenvolvimento de sistemas, APIs, aplicações web e soluções corporativas.
+SQL 🗄️
+Modelagem de dados, construção de bases de dados eficientes e otimização de consultas.
 
-SQL 🗄️ — Manipulação, análise e modelagem de dados relacionais, com expertise em otimização de consultas e construção de bases de dados eficientes.
+GeneXus 🧩
+Desenvolvimento low-code de sistemas corporativos multiplataforma, com foco em produtividade e escalabilidade.
 
-GeneXus 🧩 — Ferramenta de desenvolvimento low-code para criação de sistemas corporativos multiplataforma, focando em produtividade e escalabilidade.
+Outros conhecimentos: Desenvolvimento Web | APIs REST | Banco de Dados | Data Analysis | Machine Learning
 
-Outros conhecimentos:
-Desenvolvimento Web | APIs REST | Banco de Dados | Data Analysis | Machine Learning
-
-📈 Sobre mim
-🎯 Sempre focado em entregar soluções práticas e eficientes
-
-🧠 Apaixonado por aprendizado contínuo
-
-👨‍🏫 Professor, com projetos acadêmicos e exemplos práticos disponíveis no GitHub
-
-📚 Projetos Acadêmicos
-Alguns projetos disponíveis aqui foram utilizados como exemplos e atividades práticas em sala de aula, voltados para o desenvolvimento de habilidades em programação, ciência de dados e solução de problemas reais.
+📚 Atuação como Professor
+Atuo também como Professor, utilizando projetos práticos para reforçar o aprendizado em sala de aula.
+Alguns desses projetos estão disponíveis aqui no GitHub, voltados para o desenvolvimento de habilidades em programação, ciência de dados e solução de problemas reais.
 
 📫 Contato
-LinkedIn
-
-Email: marcosprochnow@gmail.com
+🔗 [LinkedIn: linkedin.com/in/marcosprochnow](https://www.linkedin.com/in/marcosprochnow)
+✉️ Email: marcosprochnow@gmail.com
