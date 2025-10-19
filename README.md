@@ -34,7 +34,7 @@
 - 🐍 Utilizo **Python** para análise de dados, automação de processos e desenvolvimento de aplicações inteligentes.
 - ⚙️ Desenvolvo sistemas robustos, APIs e soluções corporativas com **C#** e o ecossistema .NET.
 - 🛢️ Sou especialista em **SQL**, com experiência em modelagem, otimização de consultas e administração de bancos de dados relacionais.
-- 🛠️ Tenho experiência com **GeneXus** para o desenvolvimento rápido de aplicações multiplataforma, com foco em produtividade e escalabilidade.
+- 🛠️ Tenho experiência com **GeneXus** para o desenvolvimento rápido de aplicações multiplataforma, com foco em produtividade e escalabilidade. 
 - 👨‍🏫 Como **Professor**, busco unir a teoria e a prática. Muitos dos meus repositórios são projetos acadêmicos utilizados como exemplos e atividades em sala de aula.
 
 ---
