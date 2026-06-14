@@ -1,47 +1,72 @@
-<h1 align="center">Olá, eu sou o Marcos Prochnow! 👋</h1>
+# Olá, eu sou o Marcos Prochnow! 👋
 
-<p align="center">
-  <strong>Analista de Sistemas | Desenvolvedor de Software | Cientista de Dados | Professor</strong>
-</p>
+**Desenvolvedor de Software | Especialista em ERP/DMS Automotivo | Professor Universitário**
 
-<p align="center">
-  Apaixonado por resolver problemas através da tecnologia, com interesse especial em Desenvolvimento de Software, Ciência de Dados e Inteligência Artificial aplicada a negócios.
-</p>
+Trabalho com desenvolvimento e manutenção de sistemas ERP/DMS para o setor automotivo,
+com foco no módulo de Oficina. No dia a dia uso GeneXus, SQL Server, C# e PowerBuilder.
+Também atuo como professor universitário em cursos de Graduação e Pós-Graduação nas
+áreas de Desenvolvimento de Software, Ciência de Dados e IA.
 
-<div align="center">
-  <a href="https://github.com/marcosprochnow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Atualmente me especializando em Go e desenvolvendo projetos pessoais para aprofundar
+no ecossistema da linguagem.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/GeneXus-92278F?style=for-the-badge" alt="GeneXus">
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/marcosprochnow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=7&theme=dracula)](https://github.com/marcosprochnow)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🛠️ Tecnologias e Ferramentas
 
-- 💡 Tenho como foco a entrega de **soluções práticas e eficientes**, transformando dados em insights e ideias em software funcional.
-- 🐍 Utilizo **Python** para análise de dados, automação de processos e desenvolvimento de aplicações inteligentes.
-- ⚙️ Desenvolvo sistemas robustos, APIs e soluções corporativas com **C#** e o ecossistema .NET.
-- 🛢️ Sou especialista em **SQL**, com experiência em modelagem, otimização de consultas e administração de bancos de dados relacionais.
-- 🛠️ Tenho experiência com **GeneXus** para o desenvolvimento rápido de aplicações multiplataforma, com foco em produtividade e escalabilidade. 
-- 👨‍🏫 Como **Professor**, busco unir a teoria e a prática. Muitos dos meus repositórios são projetos acadêmicos utilizados como exemplos e atividades em sala de aula.
+**ERP / Sistemas Corporativos**
+
+![GeneXus](https://img.shields.io/badge/GeneXus-92278F?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-003087?style=for-the-badge)
+
+**Dados e IA**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Se especializando**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Outros**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![APIs REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🏭 Especialista em sistemas **ERP/DMS automotivos**, com foco no módulo de Oficina.
+  Trabalho com **GeneXus**, **SQL Server (T-SQL)**, **C#** e **PowerBuilder** em
+  ambiente de alta criticidade.
+
+- 🐍 Uso **Python** no contexto de Ciência de Dados, Machine Learning e IA,
+  principalmente no ambiente acadêmico como professor e orientador de projetos.
+
+- 🐹 Atualmente me especializando em **Go**, desenvolvendo projetos pessoais
+  para aprofundar no ecossistema da linguagem, com foco em desenvolvimento
+  web backend.
+
+- 👨‍🏫 Professor universitário na **XP Educação** há quase 4 anos, em cursos de
+  Graduação e MBA nas áreas de Desenvolvimento de Software, Data Science,
+  Machine Learning e IA. Oriento TCCs e participo de bancas avaliativas.
+
+- 🔗 Os repositórios aqui são uma mistura de projetos de estudo, materiais de
+  aula e experimentos pessoais.
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcosprochnow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:marcosprochnow@gmail.com"><img src="https://img.shields.io/badge/Email-marcosprochnow%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosprochnow)
+[![Email](https://img.shields.io/badge/Email-marcosprochnow%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosprochnow@gmail.com)
