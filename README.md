@@ -10,8 +10,17 @@ Também atuo como professor universitário em cursos de Graduação e Pós-Gradu
 Atualmente me especializando em Go e desenvolvendo projetos pessoais para aprofundar
 no ecossistema da linguagem.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/marcosprochnow)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=7&theme=dracula)](https://github.com/marcosprochnow)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/marcosprochnow)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=8&theme=dracula&count_private=true&hide_border=true)](https://github.com/marcosprochnow)
+
+</div>
 
 ---
 
