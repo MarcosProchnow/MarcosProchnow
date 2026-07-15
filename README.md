@@ -16,9 +16,9 @@ no ecossistema da linguagem.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/marcosprochnow)
+<img src="https://github-readme-stats.vercel.app/api?username=marcosprochnow&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=8&theme=dracula&count_private=true&hide_border=true)](https://github.com/marcosprochnow)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprochnow&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Langs" />
 
 </div>
 
@@ -79,3 +79,5 @@ no ecossistema da linguagem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosprochnow)
 [![Email](https://img.shields.io/badge/Email-marcosprochnow%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosprochnow@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/Curriculo)
+[![Docência](https://img.shields.io/badge/Docência-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/ProfessorProchnow)
