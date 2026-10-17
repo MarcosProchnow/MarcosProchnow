@@ -1,14 +1,24 @@
 # Olá, eu sou o Marcos Prochnow! 👋
 
-**Desenvolvedor de Software | Especialista em ERP/DMS Automotivo | Professor Universitário**
+**Desenvolvedor de software em ERP/DMS (GeneXus, SQL Server, C#) | Professor e tutor EAD em Dados, ML e IA**
 
-Trabalho com desenvolvimento e manutenção de sistemas ERP/DMS para o setor automotivo,
-com foco no módulo de Oficina. No dia a dia uso GeneXus, SQL Server, C# e PowerBuilder.
-Também atuo como professor universitário em cursos de Graduação e Pós-Graduação nas
-áreas de Desenvolvimento de Software, Ciência de Dados e IA.
+Desenvolvedor que ensina o que faz em produção. Trabalho há mais de 5 anos com ERP/DMS
+para concessionárias, hoje no módulo de Oficina, e desde 2022 sou professor de Graduação
+e MBA, onde já orientei mais de 380 TCCs e projetos aplicados. Atuação 100% remota, de
+Boa Vista (RR) para todo o Brasil.
 
-Atualmente me especializando em Go e desenvolvendo projetos pessoais para aprofundar
-no ecossistema da linguagem.
+### Escolha o currículo
+
+[![Currículo de desenvolvedor](https://img.shields.io/badge/Para_vagas_de_tecnologia-Curr%C3%ADculo_de_desenvolvedor-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/Curriculo)
+[![Currículo de professor](https://img.shields.io/badge/Para_doc%C3%AAncia_e_tutoria-Curr%C3%ADculo_de_professor-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/ProfessorProchnow)
+
+---
+
+## 📊 Em números
+
+- **3.800+** atendimentos de suporte N3 em ERP (2021 a 2024)
+- **540+** demandas concluídas como desenvolvedor (2025 a 2026)
+- **380+** TCCs e projetos aplicados orientados (2022 a 2026)
 
 ---
 
@@ -21,6 +31,7 @@ no ecossistema da linguagem.
 ![T-SQL](https://img.shields.io/badge/T--SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PowerBuilder](https://img.shields.io/badge/PowerBuilder-003087?style=for-the-badge)
+![APIs REST e SOAP](https://img.shields.io/badge/REST_e_SOAP-005571?style=for-the-badge)
 
 **Dados e IA**
 
@@ -28,44 +39,40 @@ no ecossistema da linguagem.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Se especializando**
+**Em estudo e outros**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Outros**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![APIs REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🏭 Especialista em sistemas **ERP/DMS automotivos**, com foco no módulo de Oficina.
-  Trabalho com **GeneXus**, **SQL Server (T-SQL)**, **C#** e **PowerBuilder** em
-  ambiente de alta criticidade.
+- 🏭 **Desenvolvedor no Dealernet (desde 2025):** manutenção e evolução do módulo de
+  Oficina do ERP/DMS, com regras de negócio, faturamento, notas fiscais e integrações
+  REST e SOAP. Antes, de 2021 a 2025, fui analista de suporte N3 do mesmo sistema.
 
-- 🐍 Uso **Python** no contexto de Ciência de Dados, Machine Learning e IA,
-  principalmente no ambiente acadêmico como professor e orientador de projetos.
+- 🧭 **Vi o sistema pelos dois lados:** fui gerente de peças e gestor de TI numa
+  concessionária antes de programar. Entendo quem usa e quem constrói.
 
-- 🐹 Atualmente me especializando em **Go**, desenvolvendo projetos pessoais
-  para aprofundar no ecossistema da linguagem, com foco em desenvolvimento
-  web backend.
+- 👨‍🏫 **Professor na XP Educação (desde 2022):** Graduação e MBA em Desenvolvimento de
+  Software, Ciência de Dados, Machine Learning e IA. Levo casos reais de banco de dados
+  em produção para a sala de aula. Também atuo como tutor EAD.
 
-- 👨‍🏫 Professor universitário na **XP Educação** há quase 4 anos, em cursos de
-  Graduação e MBA nas áreas de Desenvolvimento de Software, Data Science,
-  Machine Learning e IA. Oriento TCCs e participo de bancas avaliativas.
+- 🐍 **Python** aparece no meu trabalho acadêmico, em dados, ML e IA.
 
-- 🔗 Os repositórios aqui são uma mistura de projetos de estudo, materiais de
-  aula e experimentos pessoais.
+- 🐹 **Go:** estudo em projetos pessoais, com foco em backend.
+
+- 🔗 Os repositórios aqui são projetos de estudo, materiais de aula e experimentos.
 
 ---
 
 ## 📫 Contato
 
+Aberto a vagas de desenvolvimento, remotas, como PJ, e a convites de docência e tutoria.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosprochnow)
 [![Email](https://img.shields.io/badge/Email-marcosprochnow%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosprochnow@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/Curriculo)
-[![Docência](https://img.shields.io/badge/Docência-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/ProfessorProchnow)
+[![Lattes](https://img.shields.io/badge/Lattes-Curr%C3%ADculo-1F4E79?style=for-the-badge)](https://lattes.cnpq.br/7309703870357775)
