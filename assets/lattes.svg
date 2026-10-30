@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="32" viewBox="0 0 80 32" role="img" aria-label="LATTES">
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="30" viewBox="0 0 81 30" role="img" aria-label="LATTES">
 <title>LATTES</title>
-<rect width="80" height="32" rx="5" fill="#1F4E79"/>
-<text x="40.0" y="20.55" text-anchor="middle" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="0.5" fill="#ffffff">LATTES</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="81" height="30" rx="6" fill="#1F4E79"/>
+<rect width="81" height="30" rx="6" fill="url(#g)"/>
+<text x="14" y="19.32" textLength="53" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">LATTES</text>
 </svg>

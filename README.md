@@ -12,8 +12,12 @@ para todo o Brasil.
 
 Dois currículos, conforme o seu interesse: o de **desenvolvedor** para vagas de tecnologia (ERP, GeneXus, C#, SQL Server e IA) e o de **professor** para docência e tutoria.
 
-<a href="https://marcosprochnow.github.io/Curriculo"><img src="assets/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="40"></a>
-<a href="https://marcosprochnow.github.io/ProfessorProchnow"><img src="assets/curriculo-professor.svg" alt="Currículo de professor" height="40"></a>
+<a href="https://marcosprochnow.github.io/Curriculo"><p>
+  <img src="assets/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="44"></a>
+</p>
+<a href="https://marcosprochnow.github.io/ProfessorProchnow"><p>
+  <img src="assets/curriculo-professor.svg" alt="Currículo de professor" height="44"></a>
+</p>
 
 ---
 
@@ -25,21 +29,28 @@ Dois currículos, conforme o seu interesse: o de **desenvolvedor** para vagas de
 
 ---
 
-## 🤖 Desenvolvimento com IA
+## 🤖 Desenvolvimento com IA (Claude Code)
 
-Uso IA como ferramenta de engenharia, não como atalho: especifico o problema, reviso
-o que é gerado e valido contra regras de negócio reais.
+**IA aplicada a ERP legado, com critério de engenharia.** Uso o Claude Code no desenvolvimento
+do dia a dia e sei onde a IA ajuda e onde ela precisa de supervisão. O foco é entregar mais
+rápido sem abrir mão de qualidade, rastreabilidade e segurança dos dados.
 
-- **Claude Code** no fluxo de trabalho: leitura de código legado, refatoração, geração e
-  revisão de código, consultas SQL e automações.
-- Customização do agente: **skills, MCP, hooks e CLAUDE.md** para dar contexto do projeto.
-- Aplico o mesmo critério na docência: IA, ML e dados com foco em uso responsável em produção.
+| O que eu faço com IA | Como eu garanto qualidade |
+|---|---|
+| Entender e documentar código legado antes de mexer nele | Reviso todo código gerado, linha por linha |
+| Refatorar e evoluir regras de negócio, faturamento e notas fiscais | Valido contra regras de negócio reais e casos de borda |
+| Escrever e otimizar consultas SQL Server e T-SQL | Testo antes de entregar e não envio dados sensíveis a modelos |
+| Automatizar tarefas repetitivas com scripts em Python | Sigo o padrão e as convenções do projeto |
+| Criar agentes, skills, hooks e arquivos `CLAUDE.md` com contexto do projeto | Uso MCP e ferramentas com permissões controladas |
 
-<img src="assets/claude-code.svg" alt="Claude Code" height="32">
-<img src="assets/ia-dev.svg" alt="Desenvolvimento com IA" height="32">
-<img src="assets/agentes.svg" alt="Agentes de código" height="32">
-<img src="assets/mcp.svg" alt="MCP e Skills" height="32">
-<img src="assets/prompt.svg" alt="Engenharia de prompt" height="32">
+**Por que isso importa para uma equipe:** sou desenvolvedor de ERP há mais de 5 anos e vi o
+sistema como suporte N3, como gestor de TI e como programador. IA nas mãos de quem conhece o
+domínio entrega mais e erra menos. Também ensino IA e dados em Graduação e MBA, então sei
+explicar o que faço e treinar outras pessoas do time.
+
+<p>
+  <img src="assets/claude-code.svg" alt="Claude Code" height="30"> <img src="assets/ia-dev.svg" alt="Desenvolvimento com IA" height="30"> <img src="assets/agentes.svg" alt="Agentes de código" height="30"> <img src="assets/mcp.svg" alt="MCP e Skills" height="30"> <img src="assets/prompt.svg" alt="Engenharia de prompt" height="30">
+</p>
 
 ---
 
@@ -47,25 +58,21 @@ o que é gerado e valido contra regras de negócio reais.
 
 **ERP / Sistemas Corporativos**
 
-<img src="assets/genexus.svg" alt="GeneXus" height="32">
-<img src="assets/sqlserver.svg" alt="SQL Server" height="32">
-<img src="assets/tsql.svg" alt="T-SQL" height="32">
-<img src="assets/csharp.svg" alt="C#" height="32">
-<img src="assets/powerbuilder.svg" alt="PowerBuilder" height="32">
-<img src="assets/rest-soap.svg" alt="APIs REST e SOAP" height="32">
+<p>
+  <img src="assets/genexus.svg" alt="GeneXus" height="30"> <img src="assets/sqlserver.svg" alt="SQL Server" height="30"> <img src="assets/tsql.svg" alt="T-SQL" height="30"> <img src="assets/csharp.svg" alt="C#" height="30"> <img src="assets/powerbuilder.svg" alt="PowerBuilder" height="30"> <img src="assets/rest-soap.svg" alt="APIs REST e SOAP" height="30">
+</p>
 
 **Dados e IA**
 
-<img src="assets/python.svg" alt="Python" height="32">
-<img src="assets/pandas.svg" alt="Pandas" height="32">
-<img src="assets/scikit-learn.svg" alt="Scikit-learn" height="32">
+<p>
+  <img src="assets/python.svg" alt="Python" height="30"> <img src="assets/pandas.svg" alt="Pandas" height="30"> <img src="assets/scikit-learn.svg" alt="Scikit-learn" height="30">
+</p>
 
 **Em estudo e outros**
 
-<img src="assets/go.svg" alt="Go" height="32">
-<img src="assets/postgresql.svg" alt="PostgreSQL" height="32">
-<img src="assets/nodejs.svg" alt="Node.js" height="32">
-<img src="assets/react.svg" alt="React" height="32">
+<p>
+  <img src="assets/go.svg" alt="Go" height="30"> <img src="assets/postgresql.svg" alt="PostgreSQL" height="30"> <img src="assets/nodejs.svg" alt="Node.js" height="30"> <img src="assets/react.svg" alt="React" height="30">
+</p>
 
 ---
 
@@ -96,6 +103,12 @@ o que é gerado e valido contra regras de negócio reais.
 
 Aberto a vagas de desenvolvimento, remotas, como PJ, e a convites de docência e tutoria.
 
-<a href="https://www.linkedin.com/in/marcosprochnow"><img src="assets/linkedin.svg" alt="LinkedIn" height="32"></a>
-<a href="mailto:marcosprochnow@gmail.com"><img src="assets/email.svg" alt="E-mail" height="32"></a>
-<a href="https://lattes.cnpq.br/7309703870357775"><img src="assets/lattes.svg" alt="Lattes" height="32"></a>
+<a href="https://www.linkedin.com/in/marcosprochnow"><p>
+  <img src="assets/linkedin.svg" alt="LinkedIn" height="30"></a>
+</p>
+<a href="mailto:marcosprochnow@gmail.com"><p>
+  <img src="assets/email.svg" alt="E-mail" height="30"></a>
+</p>
+<a href="https://lattes.cnpq.br/7309703870357775"><p>
+  <img src="assets/lattes.svg" alt="Lattes" height="30"></a>
+</p>

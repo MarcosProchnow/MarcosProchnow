@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="261" height="40" viewBox="0 0 261 40" role="img" aria-label="CURRÍCULO DE PROFESSOR  →">
+<svg xmlns="http://www.w3.org/2000/svg" width="307" height="44" viewBox="0 0 307 44" role="img" aria-label="CURRÍCULO DE PROFESSOR  →">
 <title>CURRÍCULO DE PROFESSOR  →</title>
-<rect width="261" height="40" rx="5" fill="#1F4E79"/>
-<text x="130.5" y="24.9" text-anchor="middle" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#ffffff">CURRÍCULO DE PROFESSOR  →</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="307" height="44" rx="6" fill="#1F4E79"/>
+<rect width="307" height="44" rx="6" fill="url(#g)"/>
+<text x="24" y="27.04" textLength="259" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff">CURRÍCULO DE PROFESSOR  →</text>
 </svg>

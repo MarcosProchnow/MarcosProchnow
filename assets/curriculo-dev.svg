@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="295" height="40" viewBox="0 0 295 40" role="img" aria-label="CURRÍCULO DE DESENVOLVEDOR  →">
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="44" viewBox="0 0 348 44" role="img" aria-label="CURRÍCULO DE DESENVOLVEDOR  →">
 <title>CURRÍCULO DE DESENVOLVEDOR  →</title>
-<rect width="295" height="40" rx="5" fill="#0a0a0a"/>
-<text x="147.5" y="24.9" text-anchor="middle" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#ffffff">CURRÍCULO DE DESENVOLVEDOR  →</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="348" height="44" rx="6" fill="#0a0a0a"/>
+<rect width="348" height="44" rx="6" fill="url(#g)"/>
+<text x="24" y="27.04" textLength="300" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff">CURRÍCULO DE DESENVOLVEDOR  →</text>
 </svg>

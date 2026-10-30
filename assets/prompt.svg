@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="193" height="32" viewBox="0 0 193 32" role="img" aria-label="ENGENHARIA DE PROMPT">
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="30" viewBox="0 0 205 30" role="img" aria-label="ENGENHARIA DE PROMPT">
 <title>ENGENHARIA DE PROMPT</title>
-<rect width="193" height="32" rx="5" fill="#4B5563"/>
-<text x="96.5" y="20.55" text-anchor="middle" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="0.5" fill="#ffffff">ENGENHARIA DE PROMPT</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="205" height="30" rx="6" fill="#4B5563"/>
+<rect width="205" height="30" rx="6" fill="url(#g)"/>
+<text x="14" y="19.32" textLength="177" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">ENGENHARIA DE PROMPT</text>
 </svg>

@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="32" viewBox="0 0 128 32" role="img" aria-label="MCP E SKILLS">
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="30" viewBox="0 0 134 30" role="img" aria-label="MCP E SKILLS">
 <title>MCP E SKILLS</title>
-<rect width="128" height="32" rx="5" fill="#0F766E"/>
-<text x="64.0" y="20.55" text-anchor="middle" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="0.5" fill="#ffffff">MCP E SKILLS</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="134" height="30" rx="6" fill="#0F766E"/>
+<rect width="134" height="30" rx="6" fill="url(#g)"/>
+<text x="14" y="19.32" textLength="106" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">MCP E SKILLS</text>
 </svg>
