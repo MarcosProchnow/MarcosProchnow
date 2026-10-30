@@ -13,8 +13,7 @@ para todo o Brasil.
 Dois currículos, conforme o seu interesse: o de **desenvolvedor** para vagas de tecnologia (ERP, GeneXus, C#, SQL Server e IA) e o de **professor** para docência e tutoria.
 
 <p>
-  <a href="https://marcosprochnow.github.io/Curriculo"><img src="assets/badges/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="44"></a>
-  <a href="https://marcosprochnow.github.io/ProfessorProchnow"><img src="assets/badges/curriculo-professor.svg" alt="Currículo de professor" height="44"></a>
+  <a href="https://marcosprochnow.github.io/Curriculo"><img src="assets/badges/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="44"></a> <a href="https://marcosprochnow.github.io/ProfessorProchnow"><img src="assets/badges/curriculo-professor.svg" alt="Currículo de professor" height="44"></a>
 </p>
 
 ---
@@ -47,21 +46,7 @@ domínio entrega mais e erra menos. Também ensino IA e dados em Graduação e M
 explicar o que faço e treinar outras pessoas do time.
 
 <p>
-  <p>
-  <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/claude-code.svg" alt="Claude Code" height="30"></a>
-</p>
- <p>
-  <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/ia-dev.svg" alt="Desenvolvimento com IA" height="30"></a>
-</p>
- <p>
-  <a href="https://docs.claude.com/en/docs/claude-code/sub-agents"><img src="assets/badges/agentes.svg" alt="Agentes de código" height="30"></a>
-</p>
- <p>
-  <a href="https://modelcontextprotocol.io"><img src="assets/badges/mcp.svg" alt="MCP e Skills" height="30"></a>
-</p>
- <p>
-  <a href="https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview"><img src="assets/badges/prompt.svg" alt="Engenharia de prompt" height="30"></a>
-</p>
+  <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/claude-code.svg" alt="Claude Code" height="30"></a> <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/ia-dev.svg" alt="Desenvolvimento com IA" height="30"></a> <a href="https://docs.claude.com/en/docs/claude-code/sub-agents"><img src="assets/badges/agentes.svg" alt="Agentes de código" height="30"></a> <a href="https://modelcontextprotocol.io"><img src="assets/badges/mcp.svg" alt="MCP e Skills" height="30"></a> <a href="https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview"><img src="assets/badges/prompt.svg" alt="Engenharia de prompt" height="30"></a>
 </p>
 
 ---
@@ -88,55 +73,19 @@ então dá para começar de qualquer ponto.
 **Experiência em produção (ERP/DMS e bancos de dados)**
 
 <p>
-  <p>
-  <a href="https://www.genexus.com"><img src="assets/badges/genexus.svg" alt="GeneXus" height="30"></a>
-</p>
- <p>
-  <a href="https://www.microsoft.com/sql-server"><img src="assets/badges/sqlserver.svg" alt="SQL Server" height="30"></a>
-</p>
- <p>
-  <a href="https://learn.microsoft.com/sql/t-sql/"><img src="assets/badges/tsql.svg" alt="T-SQL" height="30"></a>
-</p>
- <p>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="assets/badges/csharp.svg" alt="C#" height="30"></a>
-</p>
- <p>
-  <a href="https://www.appeon.com/products/powerbuilder"><img src="assets/badges/powerbuilder.svg" alt="PowerBuilder" height="30"></a>
-</p>
- <p>
-  <a href="https://pt.wikipedia.org/wiki/REST"><img src="assets/badges/rest-soap.svg" alt="APIs REST e SOAP" height="30"></a>
-</p>
+  <a href="https://www.genexus.com"><img src="assets/badges/genexus.svg" alt="GeneXus" height="30"></a> <a href="https://www.microsoft.com/sql-server"><img src="assets/badges/sqlserver.svg" alt="SQL Server" height="30"></a> <a href="https://learn.microsoft.com/sql/t-sql/"><img src="assets/badges/tsql.svg" alt="T-SQL" height="30"></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="assets/badges/csharp.svg" alt="C#" height="30"></a> <a href="https://www.appeon.com/products/powerbuilder"><img src="assets/badges/powerbuilder.svg" alt="PowerBuilder" height="30"></a> <a href="https://pt.wikipedia.org/wiki/REST"><img src="assets/badges/rest-soap.svg" alt="APIs REST e SOAP" height="30"></a>
 </p>
 
 **Experiência com Dados e IA**
 
 <p>
-  <p>
-  <a href="https://www.python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a>
-</p>
- <p>
-  <a href="https://pandas.pydata.org"><img src="assets/badges/pandas.svg" alt="Pandas" height="30"></a>
-</p>
- <p>
-  <a href="https://scikit-learn.org"><img src="assets/badges/scikit-learn.svg" alt="Scikit-learn" height="30"></a> <a href="https://mlflow.org"><img src="assets/badges/mlflow.svg" alt="MLflow" height="30"></a>
-</p>
+  <a href="https://www.python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a> <a href="https://pandas.pydata.org"><img src="assets/badges/pandas.svg" alt="Pandas" height="30"></a> <a href="https://scikit-learn.org"><img src="assets/badges/scikit-learn.svg" alt="Scikit-learn" height="30"></a> <a href="https://mlflow.org"><img src="assets/badges/mlflow.svg" alt="MLflow" height="30"></a>
 </p>
 
 **Experiência com Backend e Web** (Node.js e React em nível intermediário; Go em estudo)
 
 <p>
-  <p>
-  <a href="https://go.dev"><img src="assets/badges/go-estudo.svg" alt="Go (em estudo)" height="30"></a>
-</p>
- <p>
-  <a href="https://www.postgresql.org"><img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="30"></a>
-</p>
- <p>
-  <a href="https://nodejs.org"><img src="assets/badges/nodejs.svg" alt="Node.js" height="30"></a>
-</p>
- <p>
-  <a href="https://react.dev"><img src="assets/badges/react.svg" alt="React" height="30"></a>
-</p>
+  <a href="https://go.dev"><img src="assets/badges/go-estudo.svg" alt="Go (em estudo)" height="30"></a> <a href="https://www.postgresql.org"><img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="30"></a> <a href="https://nodejs.org"><img src="assets/badges/nodejs.svg" alt="Node.js" height="30"></a> <a href="https://react.dev"><img src="assets/badges/react.svg" alt="React" height="30"></a>
 </p>
 
 ---
@@ -169,7 +118,6 @@ então dá para começar de qualquer ponto.
 Aberto a vagas de desenvolvimento, remotas, como PJ, e a convites de docência e tutoria.
 
 <p>
-  <a href="https://www.linkedin.com/in/marcosprochnow"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>
-  <a href="mailto:marcosprochnow@gmail.com"><img src="assets/badges/email.svg" alt="E-mail" height="30"></a>
-  <a href="https://lattes.cnpq.br/7309703870357775"><img src="assets/badges/lattes.svg" alt="Lattes" height="30"></a>
+  <a href="https://www.linkedin.com/in/marcosprochnow"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a> <a href="mailto:marcosprochnow@gmail.com"><img src="assets/badges/email.svg" alt="E-mail" height="30"></a> <a href="https://lattes.cnpq.br/7309703870357775"><img src="assets/badges/lattes.svg" alt="Lattes" height="30"></a>
 </p>
+
