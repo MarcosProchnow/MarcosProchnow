@@ -1,16 +1,17 @@
 # Olá, eu sou o Marcos Prochnow! 👋
 
-**Desenvolvedor de software em ERP/DMS (GeneXus, SQL Server, C#) | Professor e tutor EAD em Dados, ML e IA**
+**Desenvolvedor de software em ERP/DMS (GeneXus, SQL Server, C#) | Desenvolvimento com IA (Claude Code) | Professor e tutor EAD em Dados, ML e IA**
 
 Desenvolvedor que ensina o que faz em produção. Trabalho há mais de 5 anos com ERP/DMS
 para concessionárias, hoje no módulo de Oficina, e desde 2022 sou professor de Graduação
-e MBA, onde já orientei mais de 380 TCCs e projetos aplicados. Atuação 100% remota, de
-Boa Vista (RR) para todo o Brasil.
+e MBA, onde já orientei mais de 380 TCCs e projetos aplicados. Uso IA no dia a dia de
+desenvolvimento, principalmente o **Claude Code**. Atuação 100% remota, de Boa Vista (RR)
+para todo o Brasil.
 
 ### Escolha o currículo
 
-[![Currículo de desenvolvedor](https://img.shields.io/badge/Para_vagas_de_tecnologia-Curr%C3%ADculo_de_desenvolvedor-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/Curriculo)
-[![Currículo de professor](https://img.shields.io/badge/Para_doc%C3%AAncia_e_tutoria-Curr%C3%ADculo_de_professor-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://marcosprochnow.github.io/ProfessorProchnow)
+<a href="https://marcosprochnow.github.io/Curriculo"><img src="assets/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="40"></a>
+<a href="https://marcosprochnow.github.io/ProfessorProchnow"><img src="assets/curriculo-professor.svg" alt="Currículo de professor" height="40"></a>
 
 ---
 
@@ -22,29 +23,47 @@ Boa Vista (RR) para todo o Brasil.
 
 ---
 
+## 🤖 Desenvolvimento com IA
+
+Uso IA como ferramenta de engenharia, não como atalho: especifico o problema, reviso
+o que é gerado e valido contra regras de negócio reais.
+
+- **Claude Code** no fluxo de trabalho: leitura de código legado, refatoração, geração e
+  revisão de código, consultas SQL e automações.
+- Customização do agente: **skills, MCP, hooks e CLAUDE.md** para dar contexto do projeto.
+- Aplico o mesmo critério na docência: IA, ML e dados com foco em uso responsável em produção.
+
+<img src="assets/claude-code.svg" alt="Claude Code" height="32">
+<img src="assets/ia-dev.svg" alt="Desenvolvimento com IA" height="32">
+<img src="assets/agentes.svg" alt="Agentes de código" height="32">
+<img src="assets/mcp.svg" alt="MCP e Skills" height="32">
+<img src="assets/prompt.svg" alt="Engenharia de prompt" height="32">
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 **ERP / Sistemas Corporativos**
 
-![GeneXus](https://img.shields.io/badge/GeneXus-92278F?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PowerBuilder](https://img.shields.io/badge/PowerBuilder-003087?style=for-the-badge)
-![APIs REST e SOAP](https://img.shields.io/badge/REST_e_SOAP-005571?style=for-the-badge)
+<img src="assets/genexus.svg" alt="GeneXus" height="32">
+<img src="assets/sqlserver.svg" alt="SQL Server" height="32">
+<img src="assets/tsql.svg" alt="T-SQL" height="32">
+<img src="assets/csharp.svg" alt="C#" height="32">
+<img src="assets/powerbuilder.svg" alt="PowerBuilder" height="32">
+<img src="assets/rest-soap.svg" alt="APIs REST e SOAP" height="32">
 
 **Dados e IA**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="assets/python.svg" alt="Python" height="32">
+<img src="assets/pandas.svg" alt="Pandas" height="32">
+<img src="assets/scikit-learn.svg" alt="Scikit-learn" height="32">
 
 **Em estudo e outros**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="assets/go.svg" alt="Go" height="32">
+<img src="assets/postgresql.svg" alt="PostgreSQL" height="32">
+<img src="assets/nodejs.svg" alt="Node.js" height="32">
+<img src="assets/react.svg" alt="React" height="32">
 
 ---
 
@@ -61,6 +80,8 @@ Boa Vista (RR) para todo o Brasil.
   Software, Ciência de Dados, Machine Learning e IA. Levo casos reais de banco de dados
   em produção para a sala de aula. Também atuo como tutor EAD.
 
+- 🤖 **IA aplicada ao desenvolvimento:** Claude Code no dia a dia, do código legado à entrega.
+
 - 🐍 **Python** aparece no meu trabalho acadêmico, em dados, ML e IA.
 
 - 🐹 **Go:** estudo em projetos pessoais, com foco em backend.
@@ -73,6 +94,6 @@ Boa Vista (RR) para todo o Brasil.
 
 Aberto a vagas de desenvolvimento, remotas, como PJ, e a convites de docência e tutoria.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosprochnow)
-[![Email](https://img.shields.io/badge/Email-marcosprochnow%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosprochnow@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-Curr%C3%ADculo-1F4E79?style=for-the-badge)](https://lattes.cnpq.br/7309703870357775)
+<a href="https://www.linkedin.com/in/marcosprochnow"><img src="assets/linkedin.svg" alt="LinkedIn" height="32"></a>
+<a href="mailto:marcosprochnow@gmail.com"><img src="assets/email.svg" alt="E-mail" height="32"></a>
+<a href="https://lattes.cnpq.br/7309703870357775"><img src="assets/lattes.svg" alt="Lattes" height="32"></a>
