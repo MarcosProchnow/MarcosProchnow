@@ -21,9 +21,9 @@ Dois currículos, conforme o seu interesse: o de **desenvolvedor** para vagas de
 
 ## 📊 Em números
 
-- **3.800+** atendimentos de suporte N3 em ERP (2021 a 2024)
-- **540+** demandas concluídas como desenvolvedor (2025 a 2026)
-- **380+** TCCs e projetos aplicados orientados (2022 a 2026)
+| 3.800+ | 540+ | 380+ |
+|:---:|:---:|:---:|
+| atendimentos de suporte N3 em ERP<br>(2021 a 2024) | demandas concluídas como desenvolvedor<br>(2025 a 2026) | TCCs e projetos aplicados orientados<br>(2022 a 2026) |
 
 ---
 
@@ -66,9 +66,26 @@ explicar o que faço e treinar outras pessoas do time.
 
 ---
 
+## 📚 Ensino aberto e projetos públicos
+
+Ensino o que faço. Os cursos abaixo são gratuitos, com código aberto e uma tag Git por aula,
+então dá para começar de qualquer ponto.
+
+| Material | Do que se trata |
+|---|---|
+| [**Agentes de IA com Python, do zero**](https://github.com/MarcosProchnow/curso-agentes-de-ia-com-python) | Agente escrito à mão, sem framework: loop, ferramentas, permissões, avaliação e MCP, aplicados a tarefas de TI. Roda sem chave de API. |
+| [**Automação de TI com Python**](https://github.com/MarcosProchnow/curso-automacao-ti-com-python) | Do script ao servidor: o projeto Sentinela cresce em 17 aulas (backup, varredura, inventário, alertas e CLI). |
+| [**xpemlflow**](https://github.com/MarcosProchnow/xpemlflow) e [**xpeclass**](https://github.com/MarcosProchnow/xpeclass) | Exemplos de MLOps: API que treina e serve um modelo, com MLflow, testes e CI. |
+
+<p>
+  <a href="https://www.youtube.com/@ProfessorProchnowTI"><img src="assets/badges/youtube.svg" alt="Canal Professor Prochnow no YouTube" height="30"></a> <a href="https://www.udemy.com/user/marcos-prochnow/"><img src="assets/badges/udemy.svg" alt="Cursos na Udemy" height="30"></a>
+</p>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
-**ERP / Sistemas Corporativos**
+**Experiência em produção (ERP/DMS e bancos de dados)**
 
 <p>
   <p>
@@ -91,7 +108,7 @@ explicar o que faço e treinar outras pessoas do time.
 </p>
 </p>
 
-**Dados e IA**
+**Experiência com Dados e IA**
 
 <p>
   <p>
@@ -101,15 +118,15 @@ explicar o que faço e treinar outras pessoas do time.
   <a href="https://pandas.pydata.org"><img src="assets/badges/pandas.svg" alt="Pandas" height="30"></a>
 </p>
  <p>
-  <a href="https://scikit-learn.org"><img src="assets/badges/scikit-learn.svg" alt="Scikit-learn" height="30"></a>
+  <a href="https://scikit-learn.org"><img src="assets/badges/scikit-learn.svg" alt="Scikit-learn" height="30"></a> <a href="https://mlflow.org"><img src="assets/badges/mlflow.svg" alt="MLflow" height="30"></a>
 </p>
 </p>
 
-**Em estudo e outros**
+**Experiência com Backend e Web** (Node.js e React em nível intermediário; Go em estudo)
 
 <p>
   <p>
-  <a href="https://go.dev"><img src="assets/badges/go.svg" alt="Go" height="30"></a>
+  <a href="https://go.dev"><img src="assets/badges/go-estudo.svg" alt="Go (em estudo)" height="30"></a>
 </p>
  <p>
   <a href="https://www.postgresql.org"><img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="30"></a>

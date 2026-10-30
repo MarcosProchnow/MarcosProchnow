@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="30" viewBox="0 0 72 30" role="img" aria-label="UDEMY">
+<title>UDEMY</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient></defs>
+<rect width="72" height="30" rx="6" fill="#A435F0"/>
+<rect width="72" height="30" rx="6" fill="url(#g)"/>
+<text x="14" y="19.32" textLength="44" lengthAdjust="spacingAndGlyphs" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">UDEMY</text>
+</svg>
