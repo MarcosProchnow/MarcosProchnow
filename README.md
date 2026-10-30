@@ -10,6 +10,8 @@ para todo o Brasil.
 
 ### Escolha o currículo
 
+Dois currículos, conforme o seu interesse: o de **desenvolvedor** para vagas de tecnologia (ERP, GeneXus, C#, SQL Server e IA) e o de **professor** para docência e tutoria.
+
 <a href="https://marcosprochnow.github.io/Curriculo"><img src="assets/curriculo-dev.svg" alt="Currículo de desenvolvedor" height="40"></a>
 <a href="https://marcosprochnow.github.io/ProfessorProchnow"><img src="assets/curriculo-professor.svg" alt="Currículo de professor" height="40"></a>
 
