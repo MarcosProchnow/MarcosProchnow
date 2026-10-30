@@ -75,7 +75,7 @@ então dá para começar de qualquer ponto.
 |---|---|
 | [**Agentes de IA com Python, do zero**](https://github.com/MarcosProchnow/curso-agentes-de-ia-com-python) | Agente escrito à mão, sem framework: loop, ferramentas, permissões, avaliação e MCP, aplicados a tarefas de TI. Roda sem chave de API. |
 | [**Automação de TI com Python**](https://github.com/MarcosProchnow/curso-automacao-ti-com-python) | Do script ao servidor: o projeto Sentinela cresce em 17 aulas (backup, varredura, inventário, alertas e CLI). |
-| [**xpemlflow**](https://github.com/MarcosProchnow/xpemlflow) e [**xpeclass**](https://github.com/MarcosProchnow/xpeclass) | Exemplos de MLOps: API que treina e serve um modelo, com MLflow, testes e CI. |
+| [**xpemlflow**](https://github.com/MarcosProchnow/xpemlflow) e [**xpeclass**](https://github.com/MarcosProchnow/xpeclass) | Exemplos de MLOps: API que treina e serve um modelo: o xpeclass com Flask e testes, o xpemlflow com FastAPI, MLflow e CI. |
 
 <p>
   <a href="https://www.youtube.com/@ProfessorProchnowTI"><img src="assets/badges/youtube.svg" alt="Canal Professor Prochnow no YouTube" height="30"></a> <a href="https://www.udemy.com/user/marcos-prochnow/"><img src="assets/badges/udemy.svg" alt="Cursos na Udemy" height="30"></a>
