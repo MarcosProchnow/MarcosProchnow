@@ -45,6 +45,8 @@ sistema como suporte N3, como gestor de TI e como programador. IA nas mãos de q
 domínio entrega mais e erra menos. Também ensino IA e dados em Graduação e MBA, então sei
 explicar o que faço e treinar outras pessoas do time.
 
+**Projeto público que mostra isso na prática:** [**sqlguard-mcp**](https://github.com/MarcosProchnow/sqlguard-mcp), um servidor MCP em Go que deixa o Claude consultar um banco SQL (SQLite ou PostgreSQL) **sem poder alterar nada**. Feito com o Claude Code, com guard de SQL, conexão somente leitura, log de auditoria, testes com PostgreSQL real e fuzzing.
+
 <p>
   <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/claude-code.svg" alt="Claude Code" height="30"></a> <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="assets/badges/ia-dev.svg" alt="Desenvolvimento com IA" height="30"></a> <a href="https://docs.claude.com/en/docs/claude-code/sub-agents"><img src="assets/badges/agentes.svg" alt="Agentes de código" height="30"></a> <a href="https://modelcontextprotocol.io"><img src="assets/badges/mcp.svg" alt="MCP e Skills" height="30"></a> <a href="https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview"><img src="assets/badges/prompt.svg" alt="Engenharia de prompt" height="30"></a>
 </p>
